@@ -1,0 +1,3 @@
+/home/vosahlov/Documents/programovani/MAM/mam_template/build/CMakeFiles/MAM.elf.dir
+/home/vosahlov/Documents/programovani/MAM/mam_template/build/CMakeFiles/edit_cache.dir
+/home/vosahlov/Documents/programovani/MAM/mam_template/build/CMakeFiles/rebuild_cache.dir

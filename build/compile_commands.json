@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/vosahlov/Documents/programovani/MAM/mam_template/build",
+  "command": "/usr/bin/arm-none-eabi-g++ -Doh_you_know=0xB00B13S -I/home/vosahlov/Documents/programovani/MAM/mam_template/src -I/home/vosahlov/Documents/programovani/MAM/mam_template/inc -I/home/vosahlov/Documents/programovani/MAM/mam_template/lib/CMSIS/Include -I/home/vosahlov/Documents/programovani/MAM/mam_template/lib/CMSIS/Device/ST/STM32F4xx/Include -ffunction-sections -fdata-sections -Werror=switch -Werror=return-type -Werror=stringop-overflow -Werror=parentheses -Wfatal-errors -Wno-unused-function  -Wall -Wextra -Wundef -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wnull-dereference -Wcast-align -Wvla -Wmissing-format-attribute -Wuninitialized -Winit-self -Wdouble-promotion -Wstrict-aliasing -Wno-unused-parameter -pedantic -funsigned-char -funsigned-bitfields -fdiagnostics-color=always -fstack-protector-strong -finline-small-functions -findirect-inlining -fno-exceptions -fno-unwind-tables -fno-asynchronous-unwind-tables --specs=nano.specs --specs=nosys.specs -fno-use-cxa-atexit -Wint-to-pointer-cast -Wold-style-cast -Weffc++ -Wno-register -fno-exceptions -fno-threadsafe-statics -mthumb -mcpu=cortex-m4 -mfloat-abi=hard -mfpu=fpv5-sp-d16 -mthumb -mabi=aapcs -Og -g -std=gnu++20 -fno-diagnostics-color -o CMakeFiles/MAM.elf.dir/src/main.cpp.obj -c /home/vosahlov/Documents/programovani/MAM/mam_template/src/main.cpp",
+  "file": "/home/vosahlov/Documents/programovani/MAM/mam_template/src/main.cpp",
+  "output": "CMakeFiles/MAM.elf.dir/src/main.cpp.obj"
+},
+{
+  "directory": "/home/vosahlov/Documents/programovani/MAM/mam_template/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -Doh_you_know=0xB00B13S -I/home/vosahlov/Documents/programovani/MAM/mam_template/src -I/home/vosahlov/Documents/programovani/MAM/mam_template/inc -I/home/vosahlov/Documents/programovani/MAM/mam_template/lib/CMSIS/Include -I/home/vosahlov/Documents/programovani/MAM/mam_template/lib/CMSIS/Device/ST/STM32F4xx/Include -ffunction-sections -fdata-sections  -mthumb -mcpu=cortex-m4 -mfloat-abi=hard -mfpu=fpv5-sp-d16 -mthumb -mabi=aapcs -g -o CMakeFiles/MAM.elf.dir/startup/startup_stm32f401xe.s.obj -c /home/vosahlov/Documents/programovani/MAM/mam_template/startup/startup_stm32f401xe.s",
+  "file": "/home/vosahlov/Documents/programovani/MAM/mam_template/startup/startup_stm32f401xe.s",
+  "output": "CMakeFiles/MAM.elf.dir/startup/startup_stm32f401xe.s.obj"
+}
+]
